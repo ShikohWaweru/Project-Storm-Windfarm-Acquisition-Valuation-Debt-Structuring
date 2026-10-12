@@ -16,7 +16,7 @@ The headline finding is a **bid of £64.5m for the equity (implied EV £61.0m, �
 | `Project_Storm_Deal_Review.pdf` | 10-slide deal review presentation |
 | `Project_Storm_Deal_Review.pptx` | The same deck in editable form |
 | `Project_Storm_Valuation_Memo.pdf` | Written valuation memo (the content of this README as a document) |
-| `/images` | Slide exports used below |
+| `Images` | Slide exports used below |
 
 ---
 
@@ -32,7 +32,7 @@ The headline finding is a **bid of £64.5m for the equity (implied EV £61.0m, �
 | 30% interest deductibility cap | **Nil** impact on price |
 | Five-year subordinated loan at 9% | Equity IRR **13.9%** (+195bps) |
 
-![Bid price](images/01-bid-price.png)
+![Bid price](Images/01-bid-price.png)
 
 ---
 
@@ -91,7 +91,7 @@ Debt size, interest and tax are mutually dependent. Rather than switch on iterat
 
 ### 1. The merit order moves — and creates a price hump
 
-![Power price](images/02-power-price.png)
+![Power price](Images/02-power-price.png)
 
 Supply must clear demand, so the marginal plant sets the price. The ranking is not static: coal costs escalate while CCGT costs fall, and the two cross in 2020. At that point renewables plus CCGT fall just short of demand, coal sets the price for two years, and then coal retires and CCGT takes over again. A static merit order would miss the hump.
 
@@ -109,7 +109,7 @@ The second shape in the curve is the subsidy cliff: the ~£42/MWh subsidy ends a
 
 ### 2. The DSCR covenant binds, not the gearing cap
 
-![Debt sizing](images/03-debt-sizing.png)
+![Debt sizing](Images/03-debt-sizing.png)
 
 | Test | Capacity | Status |
 |---|---:|---|
@@ -243,7 +243,7 @@ It is accretive because 9% is below the 12% hurdle and the interest is deductibl
 
 ### 10. Downside risk is asymmetric
 
-![Risk](images/04-risk.png)
+![Risk](Images/04-risk.png)
 
 Holding the £64.5m price and committed debt constant and shocking the operating case:
 
