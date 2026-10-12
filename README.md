@@ -13,8 +13,7 @@ The headline finding is a **bid of £64.5m for the equity (implied EV £61.0m, �
 | File | What it is |
 |---|---|
 | `Project_Storm_Valuation_Model.xlsx` | The model — assumptions, merit-order price stack, debt and tax schedules, statements, analysis and sensitivities |
-| `Project_Storm_Deal_Review.pdf` | 10-slide deal review presentation |
-| `Project_Storm_Deal_Review.pptx` | The same deck in editable form |
+| `Project Storm — Valuing a 50MW Operational Windfarm.pptx` | 10-slide deal review presentation |
 | `Project_Storm_Valuation_Memo.pdf` | Written valuation memo (the content of this README as a document) |
 | `Images` | Slide exports used below |
 
